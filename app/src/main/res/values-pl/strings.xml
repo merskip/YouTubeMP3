@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save_label">Pobierz jako mp3</string>
+    <string name="app_name">YouTubeMP3</string>
+    <string name="downloading">Pobieranie…</string>
+    <string name="error">Błąd pobierania</string>
+</resources>
